@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Dennis</h1>
+<p align="center"> I'am a junior python backend developer with some knowledge and interest in ML.<p/><p align="center">I endjoy python and like to solve <a href="https://leetcode.com/SheLes_T/">coding problems </a>with it.<p/> <p align="center">Currently working on my Civ like game and ToDo app.
+</p>
+<p align="center"> When I'am not coding, find me somewere lost in nature, on playing a good board game in. <p/>
 
 ### Skills
 
@@ -9,7 +12,6 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SheLesTT&theme=github-compact&area=true&custom_title=Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <!--
